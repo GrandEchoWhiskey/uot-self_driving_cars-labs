@@ -10,4 +10,8 @@ The labs cover key concepts in autonomous driving, including **computer vision, 
 - Lab 1 – [Kinematic Bicycle Model](https://github.com/GrandEchoWhiskey/uot-self_driving_cars-labs/blob/main/Kinematic_Bicycle_Model.ipynb)
 - Lab 2 - [Longitudinal Vehicle Model](https://github.com/GrandEchoWhiskey/uot-self_driving_cars-labs/blob/main/Longitudinal_Vehicle_Model.ipynb)
 
+## 🚀 Final Projects
+
+- Final Project 1 - Self-Driving Vehicle Control
+
 *(I will update this list with links as I complete each lab.)*
