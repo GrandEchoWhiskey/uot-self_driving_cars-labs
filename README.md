@@ -1,4 +1,4 @@
-# Self-Driving Cars Labs (University of Toronto)
+# Self-Driving Cars (University of Toronto)
 
 This repository contains my lab implementations from the **Self-Driving Cars Specialization** by the University of Toronto.  
 The labs cover key concepts in autonomous driving, including **computer vision, sensor fusion, localization, planning, and control**.
