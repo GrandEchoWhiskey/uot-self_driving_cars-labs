@@ -13,5 +13,8 @@ The labs cover key concepts in autonomous driving, including **computer vision, 
 
 ## Course 2 - State Estimation and Localization for Self-Driving Cars
 
+## Course 3 - Visual Perception for Self-Driving Cars
+
+## Course 4 - Motion Planning for Self-Driving Cars
 
 *(I will update this list with links as I complete each lab.)*
