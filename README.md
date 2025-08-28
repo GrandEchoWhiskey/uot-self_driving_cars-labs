@@ -12,6 +12,6 @@ The labs cover key concepts in autonomous driving, including **computer vision, 
 
 ## 🛠️ Final Projects
 
-- Final Project 1 - Self-Driving Vehicle Control
+- Final Project 1 - [Self-Driving Vehicle Control](https://github.com/GrandEchoWhiskey/uot-self_driving_cars-labs/tree/main/Course1FinalProject)
 
 *(I will update this list with links as I complete each lab.)*
