@@ -11,4 +11,7 @@ The labs cover key concepts in autonomous driving, including **computer vision, 
 - Lab - [Longitudinal Vehicle Model](https://github.com/GrandEchoWhiskey/uot-self_driving_cars-labs/blob/main/Course1/Longitudinal_Vehicle_Model.ipynb)
 - Final Project - [Self-Driving Vehicle Control](https://github.com/GrandEchoWhiskey/uot-self_driving_cars-labs/tree/main/Course1/Course1FinalProject)
 
+## Course 2 - State Estimation and Localization for Self-Driving Cars
+
+
 *(I will update this list with links as I complete each lab.)*
