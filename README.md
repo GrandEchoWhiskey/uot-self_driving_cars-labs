@@ -13,6 +13,8 @@ The labs cover key concepts in autonomous driving, including **computer vision, 
 
 ## Course 2 - State Estimation and Localization for Self-Driving Cars
 
+- Lab - [Motion and Measurement Models](https://github.com/GrandEchoWhiskey/uot-self_driving_cars-labs/blob/main/Course2/Course2Lab1/assg_learner.ipynb)
+
 ## Course 3 - Visual Perception for Self-Driving Cars
 
 ## Course 4 - Motion Planning for Self-Driving Cars
